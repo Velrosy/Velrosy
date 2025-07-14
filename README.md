@@ -69,6 +69,7 @@ I love building:
 
 > ✨ “I don’t just build stuff to show off — I build things that solve real problems.”
 
+> 👋 “Follow Me For More Tools & Bots and website Project“
 <p align="center">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Velrosy&label=Profile+Views&color=00FFC6&style=flat" alt="Profile views" />
