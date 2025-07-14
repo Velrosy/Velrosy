@@ -66,7 +66,17 @@ I love building:
 > ✨ “I don’t just build stuff to show off — I build things that solve real problems.”
 
 <p align="center">
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Velrosy&label=Profile+Views&color=00FFC6&style=flat" alt="Profile views" />
-</p>  
+  
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/Velrosy?label=Followers&style=social" alt="GitHub followers" />
 
-![Followers](https://img.shields.io/github/followers/Velrosy?style=social)
+  <!-- GitHub Stars -->
+  <img src="https://img.shields.io/github/stars/Velrosy?label=Stars&style=social" alt="GitHub stars" />
+
+  <!-- Discord Server -->
+  <a href="https://discord.gg/velros" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord" />
+  </a>
+</p>
