@@ -59,8 +59,8 @@ I love building:
 ## 📫 Contact Me
 
 - 📧 Email: **fahadboss2023@gmail.com**
-- 🧠 You can also open ticket in my server and tag me!
-- 🔗 **https/discord.gg/velros** **Discord Server**
+- 👋 You can also open ticket in my server and tag me!
+  
 ---
 
 > ✨ “I don’t just build stuff to show off — I build things that solve real problems.”
