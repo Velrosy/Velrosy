@@ -15,6 +15,8 @@ I love building:
 - 🤖 Discord bots with clean logic
 - 📊 Dashboards that are both beautiful and functional
 - 🧠 Smart tools using automation and AI
+- 🛡 Safety Self-Bot Tools
+
 
 
 ---
