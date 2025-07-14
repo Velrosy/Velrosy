@@ -8,7 +8,7 @@
 
 Hi! I'm a self-taught developer who's been working on web apps and Discord bots for over **3 years**.
 
-I started out by creating tools for friends, then slowly moved into building real systems — some of which are now used by international Discord communities (yes, even in Thailand 🇹🇭).
+
 
 I'm especially passionate about:
 - Making interfaces that are clean and functional.
