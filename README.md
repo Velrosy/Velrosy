@@ -47,6 +47,74 @@ I love building:
 </p>
 
 ---
+## 🚀 Skills Overview
+
+<table>
+  <tr>
+    <td><b>Next.js</b></td>
+    <td>
+      <img src="https://progress-bar.dev/85/?title=&color=black&width=300" />
+    </td>
+    <td><b>85%</b></td>
+  </tr>
+  <tr>
+    <td><b>Java</b></td>
+    <td>
+      <img src="https://progress-bar.dev/70/?title=&color=orange&width=300" />
+    </td>
+    <td><b>70%</b></td>
+  </tr>
+  <tr>
+    <td><b>JavaScript</b></td>
+    <td>
+      <img src="https://progress-bar.dev/100/?title=&color=yellow&width=300" />
+    </td>
+    <td><b>100%</b></td>
+  </tr>
+  <tr>
+    <td><b>HTML</b></td>
+    <td>
+      <img src="https://progress-bar.dev/90/?title=&color=E34F26&width=300" />
+    </td>
+    <td><b>90%</b></td>
+  </tr>
+  <tr>
+    <td><b>CSS</b></td>
+    <td>
+      <img src="https://progress-bar.dev/80/?title=&color=264de4&width=300" />
+    </td>
+    <td><b>80%</b></td>
+  </tr>
+  <tr>
+    <td><b>Python</b></td>
+    <td>
+      <img src="https://progress-bar.dev/65/?title=&color=3776AB&width=300" />
+    </td>
+    <td><b>65%</b></td>
+  </tr>
+  <tr>
+    <td><b>Node.js</b></td>
+    <td>
+      <img src="https://progress-bar.dev/95/?title=&color=3C873A&width=300" />
+    </td>
+    <td><b>95%</b></td>
+  </tr>
+  <tr>
+    <td><b>AI Tools</b></td>
+    <td>
+      <img src="https://progress-bar.dev/60/?title=&color=purple&width=300" />
+    </td>
+    <td><b>60%</b></td>
+  </tr>
+  <tr>
+    <td><b>Full-Stack Development</b></td>
+    <td>
+      <img src="https://progress-bar.dev/88/?title=&color=00FFC6&width=300" />
+    </td>
+    <td><b>88%</b></td>
+  </tr>
+</table>
+
 
 ## 📫 Contact Me
 
