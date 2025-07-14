@@ -20,5 +20,5 @@
 
 ## 📊 GitHub Stats & Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FAZL29&layout=compact&theme=react)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FAZL29&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Velrosy&layout=compact&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Velrosy&show_icons=true&theme=react)
