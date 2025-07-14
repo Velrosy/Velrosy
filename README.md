@@ -19,10 +19,10 @@ I love building:
 
 ## 🛠️ Skills & Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%25-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-%25-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
