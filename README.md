@@ -16,3 +16,9 @@
 ![Discord.js](https://progress-bar.dev/95/?title=Discord.js&width=400&color=7289DA)
 ![HTML / CSS](https://progress-bar.dev/80/?title=HTML%20%2F%20CSS&width=400&color=E34F26)
 ![Python](https://progress-bar.dev/60/?title=Python&width=400&color=3776AB)
+
+
+## 📊 GitHub Stats & Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FAZL29&layout=compact&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FAZL29&show_icons=true&theme=react)
