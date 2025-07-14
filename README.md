@@ -67,7 +67,6 @@ I love building:
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Velrosy&label=Profile+Views&color=00FFC6&style=flat" alt="Profile views" />
-</p>
+</p>  
 
 ![Followers](https://img.shields.io/github/followers/Velrosy?style=social)
-
