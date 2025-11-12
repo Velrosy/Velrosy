@@ -62,7 +62,7 @@ I love building:
 # For business inquiries and collaborations: 
  and if you need bot , website , tools , host ,etc
 
-- 📧 Email: **vvry866@gmail.com**
+- 📧 disocrd user : **h9.l**
 - 👋 You can also open ticket in my server and tag me!
   
 ---
