@@ -1,15 +1,6 @@
 [![884-20250701181118-1.gif](https://i.postimg.cc/7Pp8gGDx/12884955b4b1b911b05ddef754c6ca60.gif)](https://postimg.cc/PCWmSs97)
 
-<div align="center">
-
-<a href="https://discord.com/users/1114208841647788113"><img src="https://lanyard.cnrad.dev/api/1114208841647788113?bg=&borderRadius=30px&ignoreAppId=1114208841647788113&idleMessage=&theme=dark&animated=false&showDisplayName=false" /></a>
-<p>
-   <a href="https://discord.com/channels/@me/1114208841647788113"> 
-     <img src="https://discord.h9.l/widget/theme-2/1114208841647788113.png" alt="contact me">
-   </a>
-<p>
-
-</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1114208841647788113?animated=false&animatedDecoration=false&showDisplayName=true&theme=dark&bg=f6d3d8)](https://discord.com/users/1114208841647788113)
 
  <h1 align="center">Hey, I'm Velros 👋</h1>
 
