@@ -5,7 +5,7 @@
 <a href="https://discord.com/users/1114208841647788113"><img src="https://lanyard.cnrad.dev/api/1114208841647788113?bg=&borderRadius=30px&ignoreAppId=1114208841647788113&idleMessage=&theme=dark&animated=false&showDisplayName=false" /></a>
 <p>
    <a href="https://discord.com/channels/@me/1114208841647788113"> 
-     <img src="https://discord.c99.nl/widget/theme-2/1114208841647788113.png" alt="contact me">
+     <img src="https://discord.h9.l/widget/theme-2/1114208841647788113.png" alt="contact me">
    </a>
 <p>
 
