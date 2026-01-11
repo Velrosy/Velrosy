@@ -55,13 +55,8 @@ I love building:
 
 ## 📊 GitHub Stats & Languages
 
-![GitHub top language](https://img.shields.io/github/languages/top/Velrosy/:repo)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velrosy&layout=compact&theme=react" alt="Top Langs"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Velrosy&show_icons=true&theme=react" alt="GitHub Stats"/>
-</p>
+
 
 ---
  ## 📬 Professional Contact
