@@ -67,6 +67,14 @@ I love building:
 ![AI](https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
+<h3 align="center">🖥️ Tech Stack</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,nodejs,bun,devto,figma,mysql,tailwind,discord,bots,discordjs,kali,linux,mongodb,redis,sqlite,postman,sass,sequelize,express,github,git,gitlab,notion,npm,replit,vscode,sublime,vercel,cloudflare,workers,nginx,sentry" alt="skills logo"  />
+</div>
+
 ---
 
 ## 🚀 Projects
