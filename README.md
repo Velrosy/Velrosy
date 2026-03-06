@@ -78,3 +78,12 @@ I love building:
     <h2>📖 Stats</h2>
     <img src="https://github-readme-stats-lemon-seven-41.vercel.app/api?username=Velrosy&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=Velrosy&theme=tokyonight" />
+
+    
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://card.shiina.xyz/card/Velrosy?theme=rose"
+  />
+  <img src="https://card.shiina.xyz/card/Velrosy" alt="GitHub Stats" />
+</picture>
