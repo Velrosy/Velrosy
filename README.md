@@ -10,13 +10,18 @@
 </p>
 
 
-<h3 align="center">My Spotify Playlist</h3>
+<h3 align="center">🎀 Princess Velrosy Vibe</h3>
 
 <div align="center">
   <a href="https://open.spotify.com/playlist/1I8hFf5IA7A6K524Sihr6g">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=315jle4nsg54ximrc5sfqlmtu2km&cover_image=true&theme=compact" alt="My Spotify Vibe" />
+    <img src="https://ibb.co/Ps3TWbvC" alt="My Spotify Playlist" width="450" style="border-radius: 20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.2);" />
   </a>
 </div>
+
+<p align="center">
+  <i>✨ Click the card above to listen to my favorite tracks! ✨</i>
+</p>
+
 
 
 
