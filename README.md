@@ -10,13 +10,14 @@
 </p>
 
 
-<h3 align="center"> My Spotify Playlist</h3>
+<h3 align="center">My Spotify Playlist</h3>
 
 <div align="center">
-  <a href="https://open.spotify.com/playlist/1l8hFf5lA7A6K524Sihr6g">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=315jle4nsg54ximrc5sfqlmtu2km&redirect=true" alt="My Spotify Playlist" />
+  <a href="https://open.spotify.com/playlist/1I8hFf5IA7A6K524Sihr6g">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=315jle4nsg54ximrc5sfqlmtu2km&cover_image=true&theme=compact" alt="My Spotify Vibe" />
   </a>
 </div>
+
 
 
 
