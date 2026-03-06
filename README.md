@@ -17,6 +17,15 @@
   </a>
 </div>
 
+<h3 align="center">🌸 My Musical Heartbeat</h3>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/315jle4nsg54ximrc5sfqlmtu2km">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315jle4nsg54ximrc5sfqlmtu2km&count=5&unique=false&bg_color=feeef2&text_color=ff74a4&link_color=f06292&border_color=f8bbd0" alt="Velrosy Spotify Recently Played" />
+  </a>
+</div>
+
+
 
 
 <h3 align="center">📊 My Github Stats</h3>
