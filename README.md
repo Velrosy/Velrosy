@@ -51,14 +51,7 @@ I love building:
 
 
 ---
- ## 📬 Professional Contact
-# For business inquiries and collaborations: 
- and if you need bot , website , tools , host ,etc
 
-- 📧 disocrd user : **h9.l**
-- 👋 You can also open ticket in my server and tag me!
-  
----
 
 > ✨ “I don’t just build stuff to show off — I build things that solve real problems.”
 
