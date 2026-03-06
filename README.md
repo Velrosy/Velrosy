@@ -9,46 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFC6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Discord.js+Expert+v13%2Fv14;Building+Smart+Bots+%26+Dashboards;AI+%2B+Automation+Fan" alt="Typing SVG" />
 </p>
 
-<a href="https://ibb.co/Ps3TWbvC"><img src="https://i.ibb.co/vCgsdr6z/IMG-20260306-113117.jpg" alt="IMG-20260306-113117" border="0"></a>
 
-<h3 align="center">🎀 Princess Velrosy Vibe</h3>
-
-<div align="center">
-  <a href="https://open.spotify.com/playlist/1I8hFf5IA7A6K524Sihr6g">
-    <img src="https://ibb.co/Ps3TWbvC" alt="My Spotify Playlist" width="450" style="border-radius: 20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.2);" />
-  </a>
-</div>
-
-<p align="center">
-  <i>✨ Click the card above to listen to my favorite tracks! ✨</i>
-</p>
-
-
-
-
-
-
-
-<h3 align="center">📊 My Github Stats</h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Velrosy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=prs_merged,prs_merged_percentage" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Velrosy&locale=en&hide_title=false&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Most%20used%20language" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Velrosy&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</div>
----
 
 ## 🧠 About Me
 
@@ -71,6 +32,27 @@ I love building:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,nodejs,bun,devto,figma,mysql,tailwind,discord,bots,discordjs,arch,linux,mongodb,redis,sqlite,postman,sass,sequelize,express,github,git,gitlab,notion,npm,replit,vscode,sublime,vercel,cloudflare,workers,nginx,sentry,photoshop,blender,ae" alt="skills logo"  />
+</div>
+
+
+<h3 align="center">📊 My Github Stats</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Velrosy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=prs_merged,prs_merged_percentage" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Velrosy&locale=en&hide_title=false&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Most%20used%20language" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Velrosy&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -122,3 +104,12 @@ I love building:
     <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord" />
   </a>
 </p>
+
+
+<div align="center">
+    <h2>📖 Stats</h2>
+    <img src="https://github-readme-stats-lemon-seven-41.vercel.app/api?username=Velrosy&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=Velrosy&theme=dark" />
+   
+    </a>
+</div>
