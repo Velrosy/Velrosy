@@ -110,24 +110,3 @@ I love building:
     <h2>📖 Stats</h2>
     <img src="https://github-readme-stats-lemon-seven-41.vercel.app/api?username=Velrosy&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=Velrosy&theme=tokyonight" />
-   
- <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Velrosy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=prs_merged,prs_merged_percentage" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Velrosy&locale=en&hide_title=false&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Most%20used%20language" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Velrosy&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</div>
-   
-    </a>
-</div>
