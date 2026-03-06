@@ -49,12 +49,6 @@ I love building:
 | **System Bot For Designer** | You can use it on your server to improve the experience between you and the customer, on the one hand, organizing and accelerating the receipt of orders - system orders - and much more, explore it yourself. | Public |
 | **Website Builder** | you can make your website and control it by the dashboard & Ai assistant| Soon 35% |
 
----
-
-## 📊 GitHub Stats & Languages
-
-
-
 
 ---
  ## 📬 Professional Contact
@@ -85,6 +79,7 @@ I love building:
   </a>
 </p>
 
+## 📊 GitHub Stats & Languages
 
 <div align="center">
     <h2>📖 Stats</h2>
