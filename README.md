@@ -61,7 +61,7 @@ I love building:
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,nodejs,bun,devto,figma,mysql,tailwind,discord,bots,discordjs,fedora,linux,mongodb,redis,sqlite,postman,sass,sequelize,express,github,git,gitlab,notion,npm,replit,vscode,sublime,vercel,cloudflare,workers,nginx,sentry,photoshop" alt="skills logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,nodejs,bun,devto,figma,mysql,tailwind,discord,bots,discordjs,fedora linux,linux,mongodb,redis,sqlite,postman,sass,sequelize,express,github,git,gitlab,notion,npm,replit,vscode,sublime,vercel,cloudflare,workers,nginx,sentry,photoshop" alt="skills logo"  />
 </div>
 
 ---
