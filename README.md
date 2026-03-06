@@ -9,6 +9,36 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFC6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Discord.js+Expert+v13%2Fv14;Building+Smart+Bots+%26+Dashboards;AI+%2B+Automation+Fan" alt="Typing SVG" />
 </p>
 
+<h3 align="center">🎧 Music</h3>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31qan4rbmsa6j2w5oivpjpxncpdq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qan4rbmsa6j2w5oivpjpxncpdq&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
+<h3 align="center">📊 My Github Stats</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Velrosy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=prs_merged,prs_merged_percentage" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Velrosy&locale=en&hide_title=false&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Most%20used%20language" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Velrosy&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## 🧠 About Me
