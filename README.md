@@ -9,28 +9,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFC6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Discord.js+Expert+v13%2Fv14;Building+Smart+Bots+%26+Dashboards;AI+%2B+Automation+Fan" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🎧 My Recent Vibe</h3>
+
+<h3 align="center">My Spotify Playlist</h3>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/315jle4nsg54ximrc5sfqlmtu2km">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315jle4nsg54ximrc5sfqlmtu2km&count=5&unique=false" alt="Spotify recently played" />
-  </a>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1I8hFf5lA7A6K524Sihr6g?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
-<h3 align="center">🌸 My Musical Heartbeat</h3>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/315jle4nsg54ximrc5sfqlmtu2km">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315jle4nsg54ximrc5sfqlmtu2km&count=5&unique=false&bg_color=feeef2&text_color=ff74a4&link_color=f06292&border_color=f8bbd0" alt="Velrosy Spotify Recently Played" />
-  </a>
-</div>
-
-<h3 align="center">🌸 My Musical Heartbeat</h3>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/315jle4nsg54ximrc5sfqlmtu2km">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315jle4nsg54ximrc5sfqlmtu2km&count=5&unique=false&bg_color=feeef2&text_color=ff74a4&link_color=f06292&border_color=f8bbd0" alt="Velrosy Spotify" />
-  </a>
 </div>
 
 
