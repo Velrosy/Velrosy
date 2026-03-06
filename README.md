@@ -10,13 +10,14 @@
 </p>
 
 
-<h3 align="center">My Spotify Playlist</h3>
+<h3 align="center"> My Spotify Playlist</h3>
 
 <div align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1I8hFf5lA7A6K524Sihr6g?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <a href="https://open.spotify.com/playlist/1l8hFf5lA7A6K524Sihr6g">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=315jle4nsg54ximrc5sfqlmtu2km&redirect=true" alt="My Spotify Playlist" />
+  </a>
 </div>
 
-</div>
 
 
 
