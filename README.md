@@ -9,15 +9,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFC6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Discord.js+Expert+v13%2Fv14;Building+Smart+Bots+%26+Dashboards;AI+%2B+Automation+Fan" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🎧 Music</h3>
-
-###
+<h3 align="center">🎧 My Recent Vibe</h3>
 
 <div align="center">
   <a href="https://open.spotify.com/user/315jle4nsg54ximrc5sfqlmtu2km">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315jle4nsg54ximrc5sfqlmtu2km&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315jle4nsg54ximrc5sfqlmtu2km&count=5&unique=false" alt="Spotify recently played" />
   </a>
 </div>
+
 
 
 <h3 align="center">📊 My Github Stats</h3>
