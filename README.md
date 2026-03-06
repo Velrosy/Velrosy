@@ -9,6 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFC6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Discord.js+Expert+v13%2Fv14;Building+Smart+Bots+%26+Dashboards;AI+%2B+Automation+Fan" alt="Typing SVG" />
 </p>
 
+<a href="https://ibb.co/Ps3TWbvC"><img src="https://i.ibb.co/vCgsdr6z/IMG-20260306-113117.jpg" alt="IMG-20260306-113117" border="0"></a>
 
 <h3 align="center">🎀 Princess Velrosy Vibe</h3>
 
