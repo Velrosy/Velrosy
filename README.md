@@ -1,3 +1,7 @@
+  [![884-20250701181118-1.gif](https://i.postimg.cc/7Pp8gGDx/12884955b4b1b911b05ddef754c6ca60.gif)](https://postimg.cc/PCWmSs97)
+
+
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=40&pause=1000&color=FEFFEC&center=true&vCenter=true&repeat=false&width=435&lines=Hey+I'm+velrosy+%F0%9F%91%8B" alt="Typing SVG" /></a>
   <p align="center">
@@ -5,9 +9,6 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1114208841647788113?animated=false&animatedDecoration=false&showDisplayName=true&bg=f6d3d8&borderRadius=50px&ignoreAppId=1114208841647788113)](https://discord.com/users/1114208841647788113)
 
-
-
-  [![884-20250701181118-1.gif](https://i.postimg.cc/7Pp8gGDx/12884955b4b1b911b05ddef754c6ca60.gif)](https://postimg.cc/PCWmSs97)
 
 
 
