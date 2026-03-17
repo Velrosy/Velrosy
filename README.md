@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFC6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Discord.js+Expert+v13%2Fv14;Building+Smart+Bots+%26+Dashboards;AI+%2B+Automation+Fan" alt="Typing SVG" />
 </p>
 
-q
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=30&pause=1000&color=FEFFEC&center=true&vCenter=true&width=435&lines=Welcome+to+my+world" alt="Typing SVG" /></a>
 
 ## 🧠 About Me
 
