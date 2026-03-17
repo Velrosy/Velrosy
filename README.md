@@ -8,13 +8,7 @@
   <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=30&pause=1000&color=FEFFEC&center=true&vCenter=true&width=435&lines=Welcome+to+my+world" alt="Typing SVG" /></a>
 
-  <h1 align="center" style="border-bottom: none; margin-bottom: 5px;">Hey, I'm Velros 👋</h1>
 
-<p align="center" style="margin-top: 0;">
-  <a href="https://git.io/typing-svg" style="text-decoration: none; border-bottom: none;">
-    <img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=30&pause=1000&color=FEFFEC&center=true&vCenter=true&width=435&lines=Welcome+to+my+world" alt="Typing SVG" />
-  </a>
-</p>
 
 ## 🧠 About Me
 
