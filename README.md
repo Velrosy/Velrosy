@@ -7,7 +7,6 @@
   <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=30&pause=1000&color=FEFFEC&center=true&vCenter=true&width=435&lines=Welcome+to+my+world" alt="Typing SVG" /></a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1114208841647788113?animated=false&animatedDecoration=false&showDisplayName=true&bg=f6d3d8&borderRadius=50px&ignoreAppId=1114208841647788113)](https://discord.com/users/1114208841647788113)
 
 
 
@@ -21,7 +20,7 @@ I love building:
 - 🧠 Smart tools using automation and AI
 - 🛡 Safety Self-Bot Tools
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/1114208841647788113?animated=false&animatedDecoration=false&showDisplayName=true&bg=f6d3d8&borderRadius=50px&ignoreAppId=1114208841647788113)](https://discord.com/users/1114208841647788113)
 
 ---
 
