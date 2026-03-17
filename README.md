@@ -10,7 +10,7 @@
 
 
 
-## 🧠 About Me
+## ✨ About Me
 
 I'm a self-taught developer with **3+ years** of experience.  
 I love building:
