@@ -72,7 +72,7 @@ I love building:
   </a>
 </p>
 
-## 📊 GitHub Stats & Languages
+## 📊 GitHub Stats
 
 <div align="center">
     <h2>📖 Stats</h2>
