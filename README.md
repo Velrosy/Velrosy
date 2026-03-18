@@ -72,10 +72,9 @@ I love building:
   </a>
 </p>
 
-## 📊 GitHub Stats
 
 <div align="center">
-    <h2>📖 Stats</h2>
+    <h2> 📊 GitHub Stats</h2>
     <img src="https://github-readme-stats-lemon-seven-41.vercel.app/api?username=Velrosy&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=Velrosy&theme=tokyonight" />
 
