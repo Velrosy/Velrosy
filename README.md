@@ -87,4 +87,4 @@ I love building:
 
 > ✨ “I don’t just build stuff to show off — I build things that solve real problems.”
 > 
-> 👋 “Follow Me For More Tools & Bots and website Project“
+> 👋 “check out my work and follow me for more.“
