@@ -9,7 +9,9 @@
 
 
 
-## ![1093177684193980546.png](assets/Images/1093177684193980546.png) ✨ About Me
+## ✨ About Me 
+![1093177684193980546.png](assets/Images/1093177684193980546.png)
+
 
 I'm a self-taught developer with **3+ years** of experience.  
 I love building:
