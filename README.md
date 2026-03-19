@@ -1,6 +1,5 @@
 ![12884955b4b1b911b05dde754c6ca60.gif](assets/Images/12884955b4b1b911b05ddef754c6ca60.gif)
 
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=40&pause=1000&color=FEFFEC&center=true&vCenter=true&repeat=false&width=435&lines=Hey+I'm+velrosy+%F0%9F%91%8B" alt="Typing SVG" /></a>
   <p align="center">
@@ -10,7 +9,7 @@
 
 
 
-## ✨ About Me
+## ![1093177684193980546.png](assets/Images/1093177684193980546.png) ✨ About Me
 
 I'm a self-taught developer with **3+ years** of experience.  
 I love building:
