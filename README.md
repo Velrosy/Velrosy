@@ -14,9 +14,7 @@
 
 
 I'm a just a human how love building : discord bots , websites , tools , and anything want
-and i have fun doing that so I think this is better than being the best <p align="left">
-<img src="assets/Images/1000130521.png" width="200" />
-</p>
+and i have fun doing that so I think this is better than being the best
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1114208841647788113?animated=false&animatedDecoration=false&showDisplayName=true&bg=f6d3d8&borderRadius=50px&ignoreAppId=1114208841647788113)](https://discord.com/users/1114208841647788113)
