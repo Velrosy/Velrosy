@@ -18,6 +18,11 @@ and i have fun doing that so I think this is better than being the best
 ![1000130521.png](assets/Images/1000130521.png)
 
 
+<p align="center">
+  <img src="assets/Images/1000130521.png" width="280" />
+</p>
+
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1114208841647788113?animated=false&animatedDecoration=false&showDisplayName=true&bg=f6d3d8&borderRadius=50px&ignoreAppId=1114208841647788113)](https://discord.com/users/1114208841647788113)
 
 ---
