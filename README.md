@@ -13,12 +13,9 @@
 ![1093177684193980546.png](assets/Images/1093177684193980546.png)
 
 
-I'm a self-taught developer with **3+ years** of experience.  
-I love building:
-- 🤖 Discord bots with clean logic
-- 📊 Dashboards that are both beautiful and functional
-- 🧠 Smart tools using automation and AI
-- 🛡 Safety Self-Bot Tools
+I'm a just a human how love building : discord bots , websites , tools , and anything want
+and i have fun doing that so I think this is better than being the best
+
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1114208841647788113?animated=false&animatedDecoration=false&showDisplayName=true&bg=f6d3d8&borderRadius=50px&ignoreAppId=1114208841647788113)](https://discord.com/users/1114208841647788113)
 
