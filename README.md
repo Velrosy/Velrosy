@@ -14,12 +14,8 @@
 
 
 I'm a just a human how love building : discord bots , websites , tools , and anything want
-and i have fun doing that so I think this is better than being the best
-![1000130521.png](assets/Images/1000130521.png)
-
-
-<p align="center">
-  <img src="assets/Images/1000130521.png" width="280" />
+and i have fun doing that so I think this is better than being the best <p align="left">
+<img src="assets/Images/1000130521.png" width="280" />
 </p>
 
 
