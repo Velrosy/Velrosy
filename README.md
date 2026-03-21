@@ -16,6 +16,8 @@
 I'm a just a human how love building : discord bots , websites , tools , and anything want
 and i have fun doing that so I think this is better than being the best
 
+I like art 
+
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1114208841647788113?animated=false&animatedDecoration=false&showDisplayName=true&bg=f6d3d8&borderRadius=50px&ignoreAppId=1114208841647788113)](https://discord.com/users/1114208841647788113)
 
@@ -42,7 +44,7 @@ and i have fun doing that so I think this is better than being the best
 | **Avatar System v1** | Send Avatars & Banner & Profiles  | Public |
 | **System Bot v0.5** | you can use it as template | Public |
 | **System Bot For Designer** | You can use it on your server to improve the experience between you and the customer, on the one hand, organizing and accelerating the receipt of orders - system orders - and much more, explore it yourself. | soon |
-| **** | |
+| **Wait wait this not all my projects** | You can see all of my projects in |  **[Repositories](https://github.com/Velrosy?tab=repositories)** |
 
 
 
