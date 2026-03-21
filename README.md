@@ -39,12 +39,12 @@ and i have fun doing that so I think this is better than being the best
 | Project Name | Description | Status |
 |--------------|-------------|--------|
 | **Star Bot™️** | Ai Bot & a surprise | My Our Bot Coming soon |
-| **Custom Bot For Clinets** | System ( Host - Service - Community - Shop - Store - Design ) Server and any idea | Private |
-| **Avatar System** | Send Avatars & Banner & Profiles  | Private |
-| **Bot Maker v6** | Make and host bot in less 5 min .He makes more than one type of bots: System, Giveaway, Ticket, etc. Their number currently is 40 bots. | Private |
-| **System Bot** | For Host & Service Server | Public |
-| **System Bot For Designer** | You can use it on your server to improve the experience between you and the customer, on the one hand, organizing and accelerating the receipt of orders - system orders - and much more, explore it yourself. | Public |
-| **Website Builder** | you can make your website and control it by the dashboard & Ai assistant| Soon 35% |
+| **Avatar System v1** | Send Avatars & Banner & Profiles  | Public |
+| **System Bot v0.5** | you can use it as template | Public |
+| **System Bot For Designer** | You can use it on your server to improve the experience between you and the customer, on the one hand, organizing and accelerating the receipt of orders - system orders - and much more, explore it yourself. | soon |
+| **** | |
+
+
 
 
 ---
