@@ -6,31 +6,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=30&pause=1000&color=FEFFEC&center=true&vCenter=true&width=435&lines=Welcome+to+my+world" alt="Typing SVG" /></a>
 
 
-
-
-
-## ✨ About Me 
-![1093177684193980546.png](assets/Images/1093177684193980546.png)
-
-
-I'm a just a human how love building : discord bots , websites , tools , and anything want
-and i have fun doing that so I think this is better than being the best
-
-I like art and I strive to turn everything I do into a painting
-
-I like to listen to songs when I studying, playing, coding, drawing , and any time  
-![oshi-no-ko-idol.gif](assets/Images/oshi-no-ko-idol.gif)
-
-<p align="left">
-  <a href="https://open.spotify.com/playlist/53bYMBN35Ygd3eu2ABoBJ8">
-    <img src="https://img.shields.io/badge/Listen%20to%20my%20Vibe-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-</p>
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1114208841647788113?animated=false&animatedDecoration=false&showDisplayName=true&bg=f6d3d8&borderRadius=50px&ignoreAppId=1114208841647788113)](https://discord.com/users/1114208841647788113)
-
----
-
 <details>
   <summary><b><font size="5">📂 ✨ About Me</font></b></summary>
   <br>
