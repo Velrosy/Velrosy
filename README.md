@@ -7,7 +7,7 @@
 
 
 <details>
-  <summary><b><font size="20"> 📂 ✨ About Me</font></b></summary>
+  <summary><b><font size="50"> 📂 ✨ About Me</font></b></summary>
   <br>
 
   <img src="assets/Images/1093177684193980546.png" width="150" />
