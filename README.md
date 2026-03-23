@@ -22,6 +22,7 @@
 
   <br>
 
+<p>My Spotify Playlist</p>
   <p align="left">
     <a href="https://open.spotify.com/playlist/53bYMBN35Ygd3eu2ABoBJ8">
       <img src="https://img.shields.io/badge/Listen%20to%20my%20Vibe-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
