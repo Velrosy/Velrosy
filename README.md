@@ -19,7 +19,7 @@ and i have fun doing that so I think this is better than being the best
 I like art and make everything i do into painting 
 
 <p align="left">
-  <a href="http://googleusercontent.com/spotify.com/4">
+  <a href="https://open.spotify.com/playlist/53bYMBN35Ygd3eu2ABoBJ8">
     <img src="https://img.shields.io/badge/Listen%20to%20my%20Vibe-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Style-Cutecore-pink?style=for-the-badge" />
