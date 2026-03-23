@@ -16,7 +16,9 @@
 I'm a just a human how love building : discord bots , websites , tools , and anything want
 and i have fun doing that so I think this is better than being the best
 
-I like art 
+I like art and make everything i do into painting 
+
+https://open.spotify.com/embed/playlist/53bYMBN35Ygd3eu2ABoBJ8?utm_source=generator
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1114208841647788113?animated=false&animatedDecoration=false&showDisplayName=true&bg=f6d3d8&borderRadius=50px&ignoreAppId=1114208841647788113)](https://discord.com/users/1114208841647788113)
