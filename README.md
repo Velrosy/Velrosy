@@ -16,7 +16,9 @@
 I'm a just a human how love building : discord bots , websites , tools , and anything want
 and i have fun doing that so I think this is better than being the best
 
-I like art and make everything i do into painting 
+I like art and I strive to turn everything I do into a painting
+
+I like to listen to songs when I studying, playing, coding, drawing , and any time  
 
 <p align="left">
   <a href="https://open.spotify.com/playlist/53bYMBN35Ygd3eu2ABoBJ8">
