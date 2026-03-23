@@ -31,6 +31,36 @@ I like to listen to songs when I studying, playing, coding, drawing , and any ti
 
 ---
 
+<details>
+  <summary><b><font size="5">📂 ✨ About Me</font></b></summary>
+  <br>
+
+  <img src="assets/Images/1093177684193980546.png" width="150" />
+
+  <p>I'm just a human who loves building: discord bots, websites, tools, and anything I want. I have fun doing that, so I think this is better than being the best.</p>
+
+  <p>I like art and I strive to turn everything I do into a painting.</p>
+
+  <p>I like to listen to songs when I'm studying, playing, coding, drawing, and any time.</p>
+
+  <img src="assets/Images/oshi-no-ko-idol.gif" width="100%" />
+
+  <br>
+
+  <p align="left">
+    <a href="https://open.spotify.com/playlist/53bYMBN35Ygd3eu2ABoBJ8">
+      <img src="https://img.shields.io/badge/Listen%20to%20my%20Vibe-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+    </a>
+  </p>
+
+  <a href="https://discord.com/users/1114208841647788113">
+    <img src="https://lanyard.cnrad.dev/api/1114208841647788113?animated=false&animatedDecoration=false&showDisplayName=true&bg=f6d3d8&borderRadius=50px&ignoreAppId=1114208841647788113" alt="Discord Presence" />
+  </a>
+
+  <br><br>
+</details>
+
+---
 
 
 <h3 align="center">🖥️ Skills & Tools</h3>
