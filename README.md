@@ -108,3 +108,5 @@
 <p align="center">
   🩷 <h>May your day be as lovely as you are</h>
 </p>
+
+![GIF_20260327_183344_330.gif](assets/Images/GIF_20260327_183344_330.gif)
