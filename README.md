@@ -55,10 +55,10 @@
 
 | Project Name | Description | Status |
 |--------------|-------------|--------|
-| **Star Bot™️** | Ai Bot & a surprise | My Our Bot Coming soon |
-| **Avatar System v1** | Send Avatars & Banner & Profiles  | Public |
-| **System Bot v0.5** | you can use it as template | Public |
-| **System Bot For Designer** | You can use it on your server to improve the experience between you and the customer, on the one hand, organizing and accelerating the receipt of orders - system orders - and much more, explore it yourself. | soon |
+| **Star Bot™️** | Ai Bot & a surprise | My Bot Coming soon |
+| **Avatar System v1** | Send Avatars & Banner & Profiles  | 50% |
+| **System Bot v0.5** | you can use it as template | 90% |
+| **System Bot For Designer** | You can use it on your server to improve the experience between you and the customer, on the one hand, organizing and accelerating the receipt of orders - system orders - and much more, explore it yourself | soon |
 | **Wait wait this not all my projects** | You can see all of my projects in |  **[Repositories](https://github.com/Velrosy?tab=repositories)** |
 
 
@@ -102,3 +102,10 @@
 > ✨ “I don’t just build stuff to show off — I build things that solve real problems.”
 > 
 > 👋 “check out my work and follow me for more.“
+
+---
+
+<p align="center">
+  <em>Thanks for your time! 🤍</em><br />
+  🩷 <em>May your day be as lovely as you are.</em>
+</p>
