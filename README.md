@@ -106,6 +106,5 @@
 ---
 
 <p align="center">
-  <em>Thanks for your time! 🤍</em><br />
   🩷 <em>May your day be as lovely as you are.</em>
 </p>
