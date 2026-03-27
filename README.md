@@ -106,5 +106,5 @@
 ---
 
 <p align="center">
-  🩷 <h>May your day be as lovely as you are.</h>
+  🩷 <h>May your day be as lovely as you are</h>
 </p>
