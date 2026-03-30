@@ -9,7 +9,7 @@
 <img src="assets/Images/Velrosy.png" width="300" />
 
 <p align="left">
-<img src="Untitled120_20260330235542.png" width="500" />
+<img src="assets/Images/Untitled120_20260330235542.png" width="500" />
 
 
 ## 🗃️
