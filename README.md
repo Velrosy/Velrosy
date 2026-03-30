@@ -4,10 +4,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=40&pause=1000&color=FEFFEC&center=true&vCenter=true&repeat=false&width=435&lines=Hey+I'm+velrosy+%F0%9F%91%8B" alt="Typing SVG" /></a>
   <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=30&pause=1000&color=FEFFEC&center=true&vCenter=true&width=435&lines=Welcome+to+my+world" alt="Typing SVG" /></a>
-
+ <img src"">
 <p align="right">
-<img src="assets/Images/Velrosy.png" width="300" /> <p align="left"><img src="assets/Images/Untitled120_20260330235542.png" width="500" />
-
+<img src="assets/Images/Velrosy.png" width="300" /> <p align="left">
+  <img src="">
+  
 
 ## 🗃️
 <details>
