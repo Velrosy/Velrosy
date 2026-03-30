@@ -8,6 +8,9 @@
 <p align="right">
 <img src="assets/Images/Velrosy.png" width="300" />
 
+<p align="left">
+<img src="" width="500" />
+
 
 ## 🗃️
 <details>
