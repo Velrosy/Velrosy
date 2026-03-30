@@ -14,7 +14,7 @@
 
 ## 🗃️
 <details>
-  <summary><b><font size="5"> 📂 ✨ About Me</font></b></summary>
+  <summary><b><font size="5"> 📂 ✨ About Me</font></b></summary> 👈🏻
   <br>
 
   <img src="assets/Images/1093177684193980546.png" width="150" />
