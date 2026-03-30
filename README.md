@@ -81,12 +81,7 @@
   <!-- GitHub Stars -->
   <img src="https://img.shields.io/github/stars/Velrosy?label=Stars&style=social" alt="GitHub stars" />
 
-  <!-- Discord Server -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord" />
-  </a>
-</p>
-
+  
 
 <div align="center">
     <h2> 📊 GitHub Stats</h2>
