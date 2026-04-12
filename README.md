@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,php,nodejs,nextjs,ts,bun,devto,figma,mysql,tailwind,discord,bots,discordjs,linux,arch,mongodb,redis,sqlite,express,github,git,gitlab,notion,npm,replit,vscode,bash,docker,dotnet,robloxstudio,unity,godot,sublime,vercel,cloudflare,workers,nginx,photoshop,ae,blender," alt="skills logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,php,nodejs,nextjs, python,ts,bun,devto,figma,mysql,tailwind,discord,bots,discordjs,linux,arch,mongodb,redis,sqlite,express,github,git,gitlab,notion,npm,replit,vscode,bash,docker,dotnet,robloxstudio,unity,godot,sublime,vercel,cloudflare,workers,nginx,photoshop,ae,blender," alt="skills logo"  />
 </div>
 
 
