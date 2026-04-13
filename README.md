@@ -19,7 +19,7 @@
 
   <p>I like art and I strive to turn everything I do into a painting.</p>
 
-  <p>I like to listen to songs when I'm studying, playing, coding, drawing, and any time.</p>
+  <p>I like to listen to songs when I'm studying, playing, coding, drawing, and any time 🎶.</p>
 
   <img src="assets/Images/oshi-no-ko-idol.gif" width="100%" />
 
