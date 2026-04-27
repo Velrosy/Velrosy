@@ -92,9 +92,6 @@
     <table>
 <tr>
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Velrosy&theme=tokyonight" alt="Stats" />
-</td>
-<td align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Velrosy&theme=tokyonight" alt="Top Languages" />
 </td>
 <td align="center">
