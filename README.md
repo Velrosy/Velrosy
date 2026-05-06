@@ -33,8 +33,8 @@
   </p>
 
 <p>my discord account</p>
-  <a href="https://discord.com/users/1114208841647788113">
-    <img src="https://lanyard.cnrad.dev/api/1114208841647788113?animated=false&animatedDecoration=false&showDisplayName=true&bg=f6d3d8&borderRadius=50px&ignoreAppId=1114208841647788113" alt="Discord Presence" />
+  <a href="https://discord.com/users/264004753447452674">
+    <img src="https://lanyard.cnrad.dev/api/264004753447452674?borderRadius=20px&showDisplayName=true&idleMessage=Weee&bg=90734b&theme=dark" alt="Discord Presence" />
   </a>
 
   <br><br>
