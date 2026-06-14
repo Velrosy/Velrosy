@@ -91,14 +91,6 @@
     <img src="https://streak-stats.demolab.com?user=Velrosy&theme=tokyonight" />
     <table>
 <tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Velrosy&theme=tokyonight" alt="Top Languages" />
-</td>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Velrosy&theme=tokyonight" alt="Repos per Language" />
-</td>
-</tr>
-</table>
 
     
 <picture>
