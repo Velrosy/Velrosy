@@ -60,11 +60,10 @@
 
 | Project Name | Description | Status |
 |--------------|-------------|--------|
-| **Star Bot™️** | Ai Bot & a surprise | My Bot Coming soon |
+| **Star Bot™️** | Ai Bot & Powerful Moderation system | A past project – sleeping, not gone |
 | **Profile Designer System v1** | Discord Profiles Designer Bot | [Try it now](https://github.com/Velrosy-Space/Profile-Designer-System) |
-| **Discord bot template v0.5** | you can use it as template | 90% |
-| **System Bot For Designer** | You can use it on your server to improve the experience between you and the customer, on the one hand, organizing and accelerating the receipt of orders - system orders - and much more, explore it yourself | soon |
-| **Wait wait this not all my projects** | You can see all of my projects in |  **[Repositories](https://github.com/Velrosy?tab=repositories)** |
+| **Discord bot template v0.5** | build your own discord bot with a powerful and clean handlers | 90% |
+| **Wait wait this not all my projects** | You can see all of my projects in |  **[Repositories](https://github.com/Velrosy?tab=repositories)** & **[Velrosy Space](https://github.com/Velrosy-Space)** |
 
 
 
