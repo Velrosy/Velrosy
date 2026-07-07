@@ -62,7 +62,7 @@
 |--------------|-------------|--------|
 | **Star Bot™️** | Ai Bot & a surprise | My Bot Coming soon |
 | **Profile Designer System v1** | Discord Profiles Designer Bot | [Try it now](https://github.com/Velrosy-Space/Profile-Designer-System) |
-| **System Bot v0.5** | you can use it as template | 90% |
+| **Discord bot template v0.5** | you can use it as template | 90% |
 | **System Bot For Designer** | You can use it on your server to improve the experience between you and the customer, on the one hand, organizing and accelerating the receipt of orders - system orders - and much more, explore it yourself | soon |
 | **Wait wait this not all my projects** | You can see all of my projects in |  **[Repositories](https://github.com/Velrosy?tab=repositories)** |
 
