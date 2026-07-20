@@ -82,14 +82,6 @@
   <!-- GitHub Stars -->
   <img src="https://img.shields.io/github/stars/Velrosy?label=Stars&style=social" alt="GitHub stars" />
 
-  
-
-<div align="center">
-    <h2> 📊 GitHub Stats</h2>
-    <img src="https://github-readme-stats-lemon-seven-41.vercel.app/api?username=Velrosy&theme=dark" />
-    <table>
-<tr>
-
     
 <picture>
   <source
