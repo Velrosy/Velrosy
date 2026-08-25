@@ -85,8 +85,4 @@
 
 ![GIF_20260327_183344_330.gif](assets/Images/GIF_20260327_183344_330.gif)
 
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Velrosy&label=Profile+Views&color=00FFC6&style=flat" alt="GitHub Profile views" />
-
 ![Cloud.webp](assets/Images/Cloud.webp)
