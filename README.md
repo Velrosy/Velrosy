@@ -78,16 +78,15 @@
 </picture>
 
 ---
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Velrosy&label=Profile+Views&color=00FFC6&style=flat" alt="GitHub Profile views" />
 
 <p align="center">
   🩷 <h>May your day be as lovely as you are</h>
 </p>
 
-  <p align="center">  
-<picture>
-<source
+  
 ![GIF_20260327_183344_330.gif](assets/Images/GIF_20260327_183344_330.gif)
-/>
-<picture>
 
 ![Cloud.webp](assets/Images/Cloud.webp)
