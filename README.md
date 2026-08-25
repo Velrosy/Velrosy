@@ -42,6 +42,10 @@
   <img src="assets/Images/f5a341f4400f1b742384a72083235eeaef6dfdf1.webp" width="1000">
   
 
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Velrosy&label=Profile+Views&color=00FFC6&style=flat" alt="GitHub Profile views" />
+
 ---
 
 
@@ -69,19 +73,6 @@
 
 
 ---
-
-
-
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Velrosy&label=Profile+Views&color=00FFC6&style=flat" alt="Profile views" />
-  
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/Velrosy?label=Followers&style=social" alt="GitHub followers" />
-
-  <!-- GitHub Stars -->
-  <img src="https://img.shields.io/github/stars/Velrosy?label=Stars&style=social" alt="GitHub stars" />
-
     
 <picture>
   <source
