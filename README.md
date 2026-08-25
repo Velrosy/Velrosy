@@ -83,9 +83,11 @@
   🩷 <h>May your day be as lovely as you are</h>
 </p>
 
-<p align="center">
-  
+  <p align="center">  
+<picture>
+<source
 ![GIF_20260327_183344_330.gif](assets/Images/GIF_20260327_183344_330.gif)
-
+/>
+<picture>
 
 ![Cloud.webp](assets/Images/Cloud.webp)
