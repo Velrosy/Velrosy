@@ -62,7 +62,7 @@
 | **Star Bot™️** | Ai Bot & Powerful Moderation system | A past project – sleeping, not gone |
 | **Profile Designer System v1** | Discord Profiles Designer Bot | [Try it now](https://github.com/Velrosy-Space/Profile-Designer-System) |
 | **Discord bot template v0.5** | build your own discord bot with a powerful and clean handlers | 90% |
-| **Wait wait this not all my projects** | You can see all of my projects in |  **[Repositories](https://github.com/Velrosy?tab=repositories)** & **[Velrosy Space](https://github.com/Havix-Studio)** |
+| **Wait wait this not all my projects** | You can see all of my projects in |  **[Repositories](https://github.com/Velrosy?tab=repositories)** & **[Havix Studio](https://github.com/Havix-Studio)** |
 
 
 
