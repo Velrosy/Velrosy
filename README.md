@@ -43,18 +43,6 @@
 
 ---
 
-
-<h3 align="center">🖥️ Skills & Tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,php,nodejs,nextjs,py,ts,bun,devto,figma,mysql,tailwind,discord,bots,discordjs,linux,arch,mongodb,redis,sqlite,express,github,git,gitlab,notion,npm,replit,vscode,bash,docker,dotnet,robloxstudio,unity,godot,sublime,vercel,cloudflare,workers,nginx,photoshop,ae,blender," alt="skills logo"  />
-</div>
-
-
----
-
 ## 🚀 Projects
 
 | Project Name | Description | Status |
