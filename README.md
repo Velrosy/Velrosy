@@ -37,6 +37,8 @@
     <img src="https://lanyard.cnrad.dev/api/264004753447452674?bg=7f6a6a&theme=dark&showDisplayName=true&idleMessage=Silly%20" alt="Discord Presence" />
   </a>
 
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/264004753447452674)
+
 
 <h3 align="center">🖥️ Skills & Tools</h3>
 
