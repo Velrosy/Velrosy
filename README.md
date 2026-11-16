@@ -44,12 +44,6 @@ I like to listen to songs when I'm studying, playing, coding, drawing, and any t
 
 <br /><br />
 
-<h4>My Spotify Playlist</h4>
-<p>
-<a href="https://open.spotify.com/playlist/53bYMBN35Ygd3eu2ABoBJ8">
-<img src="https://img.shields.io/badge/Listen%20to%20my%20Vibe-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" />
-</a>
-</p>
 
 <h4>My Discord Account</h4>
 <p>
@@ -57,11 +51,7 @@ I like to listen to songs when I'm studying, playing, coding, drawing, and any t
 <img src="https://lanyard.cnrad.dev/api/264004753447452674?bg=7f6a6a&theme=dark&showDisplayName=true&idleMessage=Silly%20" alt="Discord Presence" />
 </a>
 </p>
-<p>
-<a href="https://discord.com/users/264004753447452674">
-<img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
-</a>
-</p>
+
 
 <br />
 
