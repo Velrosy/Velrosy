@@ -1,84 +1,85 @@
 <div align="center">
 
-  <img src="assets/Images/12884955b4b1b911b05ddef754c6ca60.gif" width="100%" alt="Header Banner" />
+<img src="assets/Images/12884955b4b1b911b05ddef754c6ca60.gif" width="100%" alt="Header Banner" />
 
-  <br /><br />
+<br /><br />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=40&pause=1000&color=FEFFEC&center=true&vCenter=true&repeat=false&width=435&lines=Hey+I'm+velrosy+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=40&pause=1000&color=FEFFEC&center=true&vCenter=true&repeat=false&width=435&lines=Hey+I'm+velrosy+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
 
-  <br />
+<br />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=30&pause=1000&color=FEFFEC&center=true&vCenter=true&width=435&lines=Welcome+to+my+world" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=30&pause=1000&color=FEFFEC&center=true&vCenter=true&width=435&lines=Welcome+to+my+world" alt="Typing SVG" />
+</a>
 
 </div>
 
 <br />
 
 <div align="center">
-  <img src="assets/Images/Velrosy.png" width="300" alt="Velrosy Avatar" />
+<img src="assets/Images/Velrosy.png" width="300" alt="Velrosy Avatar" />
 </div>
 
 <br />
 
 <details>
-  <summary><b><font size="5">📂 ✨ About Me</font></b></summary>
-  <br />
+<summary><b><font size="5">📂 ✨ About Me</font></b></summary>
+<br />
 
-  <div align="left">
-    <p>
-      <img src="assets/Images/1093177684193980546.png" width="120" align="right" alt="Icon" />
-      I'm just a human who loves building: discord bots, websites, tools, and anything I want. I have fun doing that, so I think this is better than being the best.
-    </p>
+<div align="left">
 
-    <p>I like art and I strive to turn everything I do into a painting.</p>
+<img src="assets/Images/1093177684193980546.png" width="120" align="right" alt="Icon" />
 
-    <p>I like to listen to songs when I'm studying, playing, coding, drawing, and any time 🎶.</p>
+I'm just a human who loves building: discord bots, websites, tools, and anything I want. I have fun doing that, so I think this is better than being the best.
 
-    <br />
+I like art and I strive to turn everything I do into a painting.
 
-    <img src="assets/Images/oshi-no-ko-idol.gif" width="100%" alt="Oshi no ko" />
+I like to listen to songs when I'm studying, playing, coding, drawing, and any time 🎶.
 
-    <br /><br />
+<br />
 
-    <h4>My Spotify Playlist</h4>
-    <p>
-      <a href="https://open.spotify.com/playlist/53bYMBN35Ygd3eu2ABoBJ8">
-        <img src="https://img.shields.io/badge/Listen%20to%20my%20Vibe-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" />
-      </a>
-    </p>
+<img src="assets/Images/oshi-no-ko-idol.gif" width="100%" alt="Oshi no ko" />
 
-    <h4>My Discord Account</h4>
-    <p>
-      <a href="https://discord.com/users/264004753447452674">
-        <img src="https://lanyard.cnrad.dev/api/264004753447452674?bg=7f6a6a&theme=dark&showDisplayName=true&idleMessage=Silly%20" alt="Discord Presence" />
-      </a>
-    </p>
-    <p>
-      <a href="https://discord.com/users/264004753447452674">
-        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
-      </a>
-    </p>
+<br /><br />
 
-    <br />
+<h4>My Spotify Playlist</h4>
+<p>
+<a href="https://open.spotify.com/playlist/53bYMBN35Ygd3eu2ABoBJ8">
+<img src="https://img.shields.io/badge/Listen%20to%20my%20Vibe-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" />
+</a>
+</p>
 
-    <h3 align="center">🖥️ Skills & Tools</h3>
+<h4>My Discord Account</h4>
+<p>
+<a href="https://discord.com/users/264004753447452674">
+<img src="https://lanyard.cnrad.dev/api/264004753447452674?bg=7f6a6a&theme=dark&showDisplayName=true&idleMessage=Silly%20" alt="Discord Presence" />
+</a>
+</p>
+<p>
+<a href="https://discord.com/users/264004753447452674">
+<img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+</a>
+</p>
 
-    <div align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,php,nodejs,nextjs,py,ts,bun,figma,mysql,tailwind,discord,express,github,git,gitlab,notion,vscode,bash,docker,dotnet,unity,godot,vercel,cloudflare,nginx,photoshop,ae,blender" alt="Skills Logo" />
-    </div>
+<br />
 
-    <br />
-  </div>
+<h3 align="center">🖥️ Skills & Tools</h3>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,php,nodejs,nextjs,py,ts,bun,figma,mysql,tailwind,discord,express,github,git,gitlab,notion,vscode,bash,docker,dotnet,unity,godot,vercel,cloudflare,nginx,photoshop,ae,blender" alt="Skills Logo" />
+</div>
+
+<br />
+
+</div>
 </details>
 
 <br />
 
 <div align="center">
-  <img src="assets/Images/f5a341f4400f1b742384a72083235eeaef6dfdf1.webp" width="100%" alt="Decorative Banner" />
+<img src="assets/Images/f5a341f4400f1b742384a72083235eeaef6dfdf1.webp" width="100%" alt="Decorative Banner" />
 </div>
 
 ---
@@ -95,25 +96,25 @@
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://card.shiina.xyz/card/Velrosy?theme=rose" />
-    <img src="https://card.shiina.xyz/card/Velrosy" alt="GitHub Stats" />
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://card.shiina.xyz/card/Velrosy?theme=rose" />
+<img src="https://card.shiina.xyz/card/Velrosy" alt="GitHub Stats" />
+</picture>
 </div>
 
 ---
 
 <div align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Velrosy&label=Profile+Views&color=00FFC6&style=flat" alt="GitHub Profile views" />
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=Velrosy&label=Profile+Views&color=00FFC6&style=flat" alt="GitHub Profile views" />
 
-  <br /><br />
+<br /><br />
 
-  <p>🩷 <i>May your day be as lovely as you are</i> 🩷</p>
+<p>🩷 <i>May your day be as lovely as you are</i> 🩷</p>
 
-  <br />
+<br />
 
-  <img src="assets/Images/GIF_20260327_183344_330.gif" width="400" alt="Footer GIF" />
-  <br />
-  <img src="assets/Images/Cloud.webp" width="100%" alt="Cloud Footer" />
+<img src="assets/Images/GIF_20260327_183344_330.gif" width="400" alt="Footer GIF" />
+<br />
+<img src="assets/Images/Cloud.webp" width="100%" alt="Cloud Footer" />
 </div>
