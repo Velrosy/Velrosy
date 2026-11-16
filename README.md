@@ -1,59 +1,85 @@
-![12884955b4b1b911b05dde754c6ca60.gif](assets/Images/12884955b4b1b911b05ddef754c6ca60.gif)
+<div align="center">
 
+  <img src="assets/Images/12884955b4b1b911b05ddef754c6ca60.gif" width="100%" alt="Header Banner" />
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=40&pause=1000&color=FEFFEC&center=true&vCenter=true&repeat=false&width=435&lines=Hey+I'm+velrosy+%F0%9F%91%8B" alt="Typing SVG" /></a>
-  <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=30&pause=1000&color=FEFFEC&center=true&vCenter=true&width=435&lines=Welcome+to+my+world" alt="Typing SVG" /></a>
- 
+  <br /><br />
 
-
-<p align="right">
-<img src="assets/Images/Velrosy.png" width="300" /> <p align="left">
-  <details>
-  <summary><b><font size="5"> 📂 ✨ About Me</font></b></summary> 
-  <br>
-
-  <img src="assets/Images/1093177684193980546.png" width="150" />
-
-  <p>I'm just a human who loves building: discord bots, websites, tools, and anything I want. I have fun doing that, so I think this is better than being the best.</p>
-
-  <p>I like art and I strive to turn everything I do into a painting.</p>
-
-  <p>I like to listen to songs when I'm studying, playing, coding, drawing, and any time 🎶.</p>
-
-  <img src="assets/Images/oshi-no-ko-idol.gif" width="100%" />
-
-  <br>
-
-<p>My Spotify Playlist</p>
-  <p align="left">
-    <a href="https://open.spotify.com/playlist/53bYMBN35Ygd3eu2ABoBJ8">
-      <img src="https://img.shields.io/badge/Listen%20to%20my%20Vibe-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-    </a>
-  </p>
-
-<p>My Discord Account</p>
-  <a href="https://discord.com/users/264004753447452674">
-    <img src="https://lanyard.cnrad.dev/api/264004753447452674?bg=7f6a6a&theme=dark&showDisplayName=true&idleMessage=Silly%20" alt="Discord Presence" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=40&pause=1000&color=FEFFEC&center=true&vCenter=true&repeat=false&width=435&lines=Hey+I'm+velrosy+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/264004753447452674)
+  <br />
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=30&pause=1000&color=FEFFEC&center=true&vCenter=true&width=435&lines=Welcome+to+my+world" alt="Typing SVG" />
+  </a>
 
-<h3 align="center">🖥️ Skills & Tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,php,nodejs,nextjs,py,ts,bun,devto,figma,mysql,tailwind,discord,bots,discordjs,linux,arch,mongodb,redis,sqlite,express,github,git,gitlab,notion,npm,replit,vscode,bash,docker,dotnet,robloxstudio,unity,godot,sublime,vercel,cloudflare,workers,nginx,photoshop,ae,blender," alt="skills logo"  />
 </div>
 
+<br />
 
+<div align="center">
+  <img src="assets/Images/Velrosy.png" width="300" alt="Velrosy Avatar" />
+</div>
 
-  <br><br>
+<br />
+
+<details>
+  <summary><b><font size="5">📂 ✨ About Me</font></b></summary>
+  <br />
+
+  <div align="left">
+    <p>
+      <img src="assets/Images/1093177684193980546.png" width="120" align="right" alt="Icon" />
+      I'm just a human who loves building: discord bots, websites, tools, and anything I want. I have fun doing that, so I think this is better than being the best.
+    </p>
+
+    <p>I like art and I strive to turn everything I do into a painting.</p>
+
+    <p>I like to listen to songs when I'm studying, playing, coding, drawing, and any time 🎶.</p>
+
+    <br />
+
+    <img src="assets/Images/oshi-no-ko-idol.gif" width="100%" alt="Oshi no ko" />
+
+    <br /><br />
+
+    <h4>My Spotify Playlist</h4>
+    <p>
+      <a href="https://open.spotify.com/playlist/53bYMBN35Ygd3eu2ABoBJ8">
+        <img src="https://img.shields.io/badge/Listen%20to%20my%20Vibe-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" />
+      </a>
+    </p>
+
+    <h4>My Discord Account</h4>
+    <p>
+      <a href="https://discord.com/users/264004753447452674">
+        <img src="https://lanyard.cnrad.dev/api/264004753447452674?bg=7f6a6a&theme=dark&showDisplayName=true&idleMessage=Silly%20" alt="Discord Presence" />
+      </a>
+    </p>
+    <p>
+      <a href="https://discord.com/users/264004753447452674">
+        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+      </a>
+    </p>
+
+    <br />
+
+    <h3 align="center">🖥️ Skills & Tools</h3>
+
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,php,nodejs,nextjs,py,ts,bun,figma,mysql,tailwind,discord,express,github,git,gitlab,notion,vscode,bash,docker,dotnet,unity,godot,vercel,cloudflare,nginx,photoshop,ae,blender" alt="Skills Logo" />
+    </div>
+
+    <br />
+  </div>
 </details>
-  <img src="assets/Images/f5a341f4400f1b742384a72083235eeaef6dfdf1.webp" width="1000">
+
+<br />
+
+<div align="center">
+  <img src="assets/Images/f5a341f4400f1b742384a72083235eeaef6dfdf1.webp" width="100%" alt="Decorative Banner" />
+</div>
 
 ---
 
@@ -61,34 +87,33 @@
 
 | Project Name | Description | Status |
 |--------------|-------------|--------|
-| **Star Bot™️** | Ai Bot & Powerful Moderation system | A past project – sleeping, not gone |
+| **Star Bot™️** | AI Bot & Powerful Moderation system | A past project – sleeping, not gone |
 | **Profile Designer System v1** | Discord Profiles Designer Bot | [Try it now](https://github.com/Velrosy-Space/Profile-Designer-System) |
-| **Discord bot template v0.5** | build your own discord bot with a powerful and clean handlers | 90% |
-| **Wait wait this not all my projects** | You can see all of my projects in |  **[Repositories](https://github.com/Velrosy?tab=repositories)** & **[Havix Studio](https://github.com/Havix-Studio)** |
-
-
-
+| **Discord bot template v0.5** | Build your own discord bot with a powerful and clean handlers | 90% |
+| **More Projects** | Explore all my projects and works in | **[Repositories](https://github.com/Velrosy?tab=repositories)** & **[Havix Studio](https://github.com/Havix-Studio)** |
 
 ---
-<p align="center">  
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://card.shiina.xyz/card/Velrosy?theme=rose"
-  />
-  <img src="https://card.shiina.xyz/card/Velrosy" alt="GitHub Stats" />
-</picture>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://card.shiina.xyz/card/Velrosy?theme=rose" />
+    <img src="https://card.shiina.xyz/card/Velrosy" alt="GitHub Stats" />
+  </picture>
+</div>
 
 ---
-<p align="center">
+
+<div align="center">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Velrosy&label=Profile+Views&color=00FFC6&style=flat" alt="GitHub Profile views" />
 
-<p align="center">
-  🩷 <h>May your day be as lovely as you are</h>
-</p>
+  <br /><br />
 
-  
-![GIF_20260327_183344_330.gif](assets/Images/GIF_20260327_183344_330.gif)
+  <p>🩷 <i>May your day be as lovely as you are</i> 🩷</p>
 
-![Cloud.webp](assets/Images/Cloud.webp)
+  <br />
+
+  <img src="assets/Images/GIF_20260327_183344_330.gif" width="400" alt="Footer GIF" />
+  <br />
+  <img src="assets/Images/Cloud.webp" width="100%" alt="Cloud Footer" />
+</div>
