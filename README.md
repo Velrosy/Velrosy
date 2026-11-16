@@ -53,16 +53,6 @@ I like to listen to songs when I'm studying, playing, coding, drawing, and any t
 </p>
 
 
-<br />
-
-<h3 align="center">🖥️ Skills & Tools</h3>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,php,nodejs,nextjs,py,ts,bun,figma,mysql,tailwind,discord,express,github,git,gitlab,notion,vscode,bash,docker,dotnet,unity,godot,vercel,cloudflare,nginx,photoshop,ae,blender" alt="Skills Logo" />
-</div>
-
-<br />
-
 </div>
 </details>
 
